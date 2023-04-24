@@ -1,0 +1,13 @@
+html {
+    background-color: slategray;
+}
+
+.skills {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul.list {
+    width: 20%;
+    justify-content: center;
+}
